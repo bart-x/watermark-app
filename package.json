@@ -1,0 +1,11 @@
+{
+  "name": "watermark",
+  "version": "1.0.0",
+  "description": "watermark app",
+  "main": "test",
+  "author": "Bartek",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
